@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE examen SYSTEM "examen.dtd">
+<examen codeMatier="1245">
+  <titre>Maths</titre>
+  <date annee="2021" mois="novembre"/>
+  <quesions>
+    <quesion>
+      <partie>Partie1</partie>
+      <partie>Partie2</partie>
+      <partie>Partie3</partie>
+      <partie>Partie4</partie>
+      <partie>Partie5</partie>
+      <partie>Partie6</partie>
+    </quesion>
+    <quesion>
+      <partie>Partie1</partie>
+      <partie>Partie2</partie>
+      <partie>Partie3</partie>
+      <partie>Partie4</partie>
+      <partie>Partie5</partie>
+      <partie>Partie6</partie>
+      <partie>Partie7</partie>
+    </quesion>
+  </quesions>
+</examen>

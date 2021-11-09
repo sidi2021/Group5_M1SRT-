@@ -1,0 +1,39 @@
+ * {
+ 	box-sizing: border-box;
+ }
+
+
+body {
+ 	width: 100% !important;
+ 	height: 100% !important;
+ }
+
+ body {
+ 	paddding: 0;
+ 	margin: 0;
+ 	border: 0;
+ 	outline: 0;
+ }
+
+ .examen-form {
+    margin-top: 100px;
+    margin-bottom: 100px;
+ }
+
+ div.parties-div {
+    margin: 15px 0;
+    padding: 40px 40px 40px 20px;
+    height: 600px;
+    overflow-y: auto;
+    border-radius: 5px;
+    background-color: #BBBBC1;
+ }
+
+
+ li {
+    overflow-wrap: break-word;
+ }
+
+ul {
+    list-style: decimal outside !important;
+ }
